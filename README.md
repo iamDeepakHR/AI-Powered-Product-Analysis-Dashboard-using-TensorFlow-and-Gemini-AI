@@ -9,7 +9,7 @@ It integrates **TensorFlow models** for classification and **Gemini AI** for int
 
 You can provide your live demo link here after deployment. Example placeholder:
 
-👉 [Click here to try the app](https://ai-product-analysis-dashboard.streamlit.app)
+👉 [Click here to try the app](https://iamdeepakhr-ai-powered-product-analysis-dashboard-us-app-htgqfx.streamlit.app/)
 
 ---
 
